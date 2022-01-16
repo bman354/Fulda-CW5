@@ -60,3 +60,62 @@ recipes.addShapedMirrored(<immersiveengineering:wooden_decoration> * 3,
   [<ore:plankTreatedWood>, <immersiveengineering:material>, <ore:plankTreatedWood>],
   [<ore:plankTreatedWood>, <immersiveengineering:material>, <ore:plankTreatedWood>]]);
 
+recipes.addShapedMirrored(<immersiveengineering:treated_wood_slab> * 6,
+ [[null, null, null],
+  [null, null, null],
+  [<ore:plankTreatedWood>, <ore:plankTreatedWood>, <ore:plankTreatedWood>]]);
+
+recipes.addShapedMirrored(<immersiveengineering:treated_wood_stairs0> * 4,
+ [[<ore:plankTreatedWood>, null, null],
+  [<ore:plankTreatedWood>, <ore:plankTreatedWood>, null],
+  [<ore:plankTreatedWood>, <ore:plankTreatedWood>, <ore:plankTreatedWood>]]);
+
+recipes.addShaped(<immersiveengineering:wooden_decoration:1> * 8,
+ [[<ore:plankTreatedWood>, <immersiveengineering:material>, <ore:plankTreatedWood>],
+  [<immersiveengineering:material>, null, <immersiveengineering:material>],
+  [<ore:plankTreatedWood>, <immersiveengineering:material>, <ore:plankTreatedWood>]]);
+
+recipes.addShaped(<immersiveengineering:wooden_device0>,
+ [[<ore:plankTreatedWood>, <ore:plankTreatedWood>, <ore:plankTreatedWood>],
+  [<ore:plankTreatedWood>, null, <ore:plankTreatedWood>],
+  [<ore:plankTreatedWood>, <ore:plankTreatedWood>, <ore:plankTreatedWood>]]);
+
+recipes.addShaped(<immersiveengineering:wooden_device0:1>,
+ [[<ore:slabTreatedWood>, <ore:slabTreatedWood>, <ore:slabTreatedWood>],
+  [<ore:plankTreatedWood>, null, <ore:plankTreatedWood>],
+  [<ore:plankTreatedWood>, <ore:plankTreatedWood>, <ore:plankTreatedWood>]]);
+
+recipes.addShapedMirrored(<immersiveengineering:treated_wood:1> * 4,
+ [[null, null, null],
+  [<immersiveengineering:treated_wood>, <immersiveengineering:treated_wood>, null],
+  [<immersiveengineering:treated_wood>, <immersiveengineering:treated_wood>, null]]);
+
+recipes.addShapedMirrored(<immersiveengineering:treated_wood:2> * 4,
+ [[null, null, null],
+  [<immersiveengineering:treated_wood:1>, <immersiveengineering:treated_wood:1>, null],
+  [<immersiveengineering:treated_wood:1>, <immersiveengineering:treated_wood:1>, null]]);
+
+recipes.addShapedMirrored(<immersiveengineering:treated_wood_slab:1> * 6,
+ [[null, null, null],
+  [null, null, null],
+  [<immersiveengineering:treated_wood:1>, <immersiveengineering:treated_wood:1>, <immersiveengineering:treated_wood:1>]]);
+
+recipes.addShapedMirrored(<immersiveengineering:treated_wood_slab:2> * 6,
+ [[null, null, null],
+  [null, null, null],
+  [<immersiveengineering:treated_wood:2>, <immersiveengineering:treated_wood:2>, <immersiveengineering:treated_wood:2>]]);
+
+recipes.addShaped(<immersiveengineering:treated_wood_stairs1> * 4,
+ [[<immersiveengineering:treated_wood:1>, null, null],
+  [<immersiveengineering:treated_wood:1>, <immersiveengineering:treated_wood:1>, null],
+  [<immersiveengineering:treated_wood:1>, <immersiveengineering:treated_wood:1>, <immersiveengineering:treated_wood:1>]]);
+
+recipes.addShaped(<immersiveengineering:treated_wood_stairs2> * 4,
+ [[<immersiveengineering:treated_wood:2>, null, null],
+  [<immersiveengineering:treated_wood:2>, <immersiveengineering:treated_wood:2>, null],
+  [<immersiveengineering:treated_wood:2>, <immersiveengineering:treated_wood:2>, <immersiveengineering:treated_wood:2>]]);
+
+
+
+
+
